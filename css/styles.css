@@ -1,0 +1,10 @@
+body {
+  color: blue;
+  font-family: Roboto, Sans, arial;
+  margin: 0 auto;
+}
+
+.tagline {
+  font-weight: bold;
+  color: gray;
+}

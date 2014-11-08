@@ -1,0 +1,13 @@
+$color: blue;
+$color-tagline: gray;
+
+body{
+  color: $color;
+  font-family: Roboto, Sans, arial;
+  margin: 0 auto;
+}
+
+.tagline{
+	font-weight: bold;
+	color: $color-tagline;
+}
